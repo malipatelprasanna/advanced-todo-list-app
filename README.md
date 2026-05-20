@@ -1,2 +1,13 @@
-# advanced-todo-list-app
-Advanced To-Do List Web Application developed using HTML, CSS, and JavaScript. This project implements complete CRUD operations including task creation, editing, deletion, and completion tracking.
+# Advanced To-Do List App
+
+Interactive To-Do List application using HTML, CSS and JavaScript.
+
+## Features
+
+- Add Tasks
+- Edit Tasks
+- Delete Tasks
+- Complete Tasks
+- Filter Tasks
+- LocalStorage Support
+- Responsive Design
